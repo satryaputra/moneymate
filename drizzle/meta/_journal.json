@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1723963916964,
+      "tag": "0000_medical_banshee",
+      "breakpoints": true
+    }
+  ]
+}
